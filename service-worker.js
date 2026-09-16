@@ -1,6 +1,6 @@
 // Bump este número toda vez que publicar uma nova versão do app,
 // para forçar a atualização do cache no iPhone do usuário.
-const CACHE_VERSION = 'v1.3.0';
+const CACHE_VERSION = 'v2.0.0';
 const CACHE_NAME = 'caderno-treino-' + CACHE_VERSION;
 
 const APP_SHELL = [
